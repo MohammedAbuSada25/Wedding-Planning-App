@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "768635578975",
+    "firebase_url": "https://wedding-planning-58319-default-rtdb.firebaseio.com",
+    "project_id": "wedding-planning-58319",
+    "storage_bucket": "wedding-planning-58319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768635578975:android:a7aeed172873153e2fc9ea",
+        "android_client_info": {
+          "package_name": "com.alshaer.weddingappusers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768635578975-qalj51vtenr4i4p8n3vf48d9e2v21at8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alshaer.weddingappusers",
+            "certificate_hash": "0079259c9b02aab0e800d5967cbb63c1961446a9"
+          }
+        },
+        {
+          "client_id": "768635578975-mtq67pjl7658966u6uheg879c9efb9cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9ZpGSpK7u23uvPDweV7_Dh-PVW6V67I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768635578975-mtq67pjl7658966u6uheg879c9efb9cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768635578975:android:44deaeb1e5632e0d2fc9ea",
+        "android_client_info": {
+          "package_name": "com.m7ammed.wedding_planning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768635578975-jm2ilon8gg6g8jraoo5ivl95s158t7ql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.m7ammed.wedding_planning",
+            "certificate_hash": "0079259c9b02aab0e800d5967cbb63c1961446a9"
+          }
+        },
+        {
+          "client_id": "768635578975-mtq67pjl7658966u6uheg879c9efb9cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9ZpGSpK7u23uvPDweV7_Dh-PVW6V67I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768635578975-mtq67pjl7658966u6uheg879c9efb9cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
